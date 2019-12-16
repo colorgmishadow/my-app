@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React on vps
+          Learn React on vps (feature1)
         </a>
       </header>
     </div>
